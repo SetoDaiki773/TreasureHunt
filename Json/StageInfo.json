@@ -1,0 +1,27 @@
+{
+    "Stage1": {
+        "SilverMedalTime": 5,
+        "GoldMedalTime": 3,
+        "Time": 999,
+        "Medal": 0
+    },
+    "Stage2": {
+        "SilverMedalTime": 18,
+        "GoldMedalTime": 6,
+        "Time": 999,
+        "Medal": 0
+    },
+    "Stage3": {
+        "SilverMedalTime": 37,
+        "GoldMedalTime": 25,
+        "Time": 999,
+        "Medal": 0
+    },
+    "Stage4": {
+        "SilverMedalTime": 46,
+        "GoldMedalTime": 31,
+        "Time": 999,
+        "Medal": 0
+    },
+    "Comment": "Medal=0 未クリア、Medal=1 銅メダル、Medal=2 銀メダル、Medal=3 金メダル"
+}
